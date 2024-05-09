@@ -41,9 +41,10 @@
 
 <br/><br/>
 
+<!--
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawyd99)](https://solved.ac/rlawyd99)
-
+-->
 
 <!--
 **Ziihong/Ziihong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
