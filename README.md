@@ -3,7 +3,7 @@
 <div>
   <!-- <a href="https://blogeon.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> -->
   <a href="mailto:wlghddl9@gmail.com"><img src="https://img.shields.io/badge/email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wlghddl9@gmail.com"/></a>
-  <a href="https://velog.io/@kimjihong9/"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kimjihong9/"/></a>
+  <a href="https://velog.io/@kimjihong9/"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kimjihong9/"/></a>
 </div>
 
 <br/><br/>
