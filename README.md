@@ -25,7 +25,7 @@
 #### Frameworks & Other Systems 
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-8B00FF?style=flat-square&logo=vite&logoColor=white"/>
