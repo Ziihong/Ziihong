@@ -1,5 +1,5 @@
   
-#### ✌( ・ ̫・ ) About Me
+### ✌( ・ ̫・ ) About Me
 <div>
   <!-- <a href="https://blogeon.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> -->
   <a href="mailto:wlghddl9@gmail.com"><img src="https://img.shields.io/badge/email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wlghddl9@gmail.com"/></a>
@@ -9,9 +9,9 @@
 <br/><br/>
 
   
-#### 📚 Tech Stack
+### 📚 Tech Stack
   
-##### Programming Languages
+#### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -22,7 +22,7 @@
 
 </p>
 
-##### Frameworks & Other Systems 
+#### Frameworks & Other Systems 
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
@@ -34,12 +34,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
-##### Infrastructure
+#### Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white">
 </p>
-
-<br/><br/>
 
 <!--
   [![Solved.ac
