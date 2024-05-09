@@ -1,5 +1,5 @@
   
-### ✌( ・ ̫・ ) About Me
+## ✌( ・ ̫・ ) About Me
 <div>
   <!-- <a href="https://blogeon.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> -->
   <a href="mailto:wlghddl9@gmail.com"><img src="https://img.shields.io/badge/email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wlghddl9@gmail.com"/></a>
@@ -9,7 +9,7 @@
 <br/><br/>
 
   
-### 📚 Tech Stack
+## 📚 Tech Stack
   
 #### Programming Languages
 <p>
